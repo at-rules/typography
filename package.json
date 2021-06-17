@@ -1,8 +1,8 @@
 {
-  "name": "@at-rules/sass-template",
+  "name": "@at-rules/typography",
   "version": "1.0.0",
-  "description": "A boilerplate to use for Sass Packages ",
-  "repository": "git@github.com:at-rules/sass-template.git",
+  "description": "Typography using the golden ration",
+  "repository": "git@github.com:at-rules/typography.git",
   "license": "MIT",
   "author": "Kyle Essex <kylegavinessex@hotmail.com>",
   "main": "src/index.css",
